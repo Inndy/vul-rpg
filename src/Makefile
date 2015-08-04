@@ -1,5 +1,5 @@
 CC=gcc
-CC_FLAGS=-O3 -fno-stack-protector
+CC_FLAGS=-fno-stack-protector
 
 all: build
 
